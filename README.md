@@ -1,2 +1,3 @@
 # C-Projects
-Various Projects Developed in C
+This repository contains various C projects developed in NetBeans.
+Project descriptions are available in the source files.
